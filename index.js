@@ -92,5 +92,5 @@ let candidateF = {
 let animals = [candidateA,candidateB,candidateC,candidateD,candidateE,candidateF];
 let spaceCrew =(buildCrewArray(animals,randomIdNumbers));
 // Code your template literal and console.log statements:
-
+ 
 console.log(`${spaceCrew[0].name}, ${spaceCrew[1].name}, and ${spaceCrew[2].name} are going to space!`);
